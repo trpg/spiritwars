@@ -1,5 +1,6 @@
 # 精霊戦記
 
+[![Stories in Ready](https://badge.waffle.io/trpg/spiritwars.png?label=ready&title=Ready)](https://waffle.io/trpg/spiritwars)
 [![Join the chat at https://gitter.im/trpg/spiritwars](https://badges.gitter.im/trpg/spiritwars.svg)](https://gitter.im/trpg/spiritwars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 『精霊戦記』は、契約している複数の精霊の中から冒険の舞台にあった精霊を召喚して使役しながら「遺跡」の魔物の胚を破壊するために戦うTRPGシステムです。サイコロフィクションの「特技」のシステムをベースにしています。
@@ -15,8 +16,26 @@
  
 [参考](http://trpg-labo.com/labo/page/43)
 
+### 精霊戦記みに
+
+システムのコアコンセプトを1ページのTRPGにまとめて手軽に体験できるようにした『精霊戦記みに』を用意しました。マスター不要で手軽に遊べます。
+
+## ダウンロード
+
+当ページ右上部の[「ダウンロード」](https://github.com/trpg/spiritwars/archive/master.zip)ボタンより、最新版をダウンロードできます。
+
+
 ## 開発について
 
 タスクは [Trello](https://trello.com/b/qSM7btuM/-) で管理しています。
 
 開発に参加ご希望の方は、 [kilica](https://twitter.com/kilica) または [gitter.im/trpg/spiritwars](https://gitter.im/trpg/spiritwars) までお気軽にご連絡ください。
+
+特に、
+
+* かわいい精霊や格好良い精霊を書けるイラスト描きの方
+* 雰囲気たっぷりの背景設定を作れる方
+* 整合性のあるルールを開発するのが得意な方
+* DTPの達人
+
+を募集しております。
