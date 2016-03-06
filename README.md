@@ -1,6 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/trpg/spiritwars.png?label=ready&title=Ready)](https://waffle.io/trpg/spiritwars)
 # 精霊戦記
 
+[![Stories in Ready](https://badge.waffle.io/trpg/spiritwars.png?label=ready&title=Ready)](https://waffle.io/trpg/spiritwars)
 [![Join the chat at https://gitter.im/trpg/spiritwars](https://badges.gitter.im/trpg/spiritwars.svg)](https://gitter.im/trpg/spiritwars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 『精霊戦記』は、契約している複数の精霊の中から冒険の舞台にあった精霊を召喚して使役しながら「遺跡」の魔物の胚を破壊するために戦うTRPGシステムです。サイコロフィクションの「特技」のシステムをベースにしています。
