@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/trpg/spiritwars.png?label=ready&title=Ready)](https://waffle.io/trpg/spiritwars)
 # 精霊戦記
 
 [![Join the chat at https://gitter.im/trpg/spiritwars](https://badges.gitter.im/trpg/spiritwars.svg)](https://gitter.im/trpg/spiritwars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
