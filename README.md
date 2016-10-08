@@ -13,7 +13,10 @@
 * ラノベっぽい（精霊）ハーレムなフレーバ
 * 精霊の強力な魔力が飛び交う派手な戦闘
 * 精霊の性格を「使役」のルールで表す
- 
+* シナリオデッキ
+
+[コンセプトスライド](http://trpg.github.io/spiritwars/concept.html)
+
 [参考](http://trpg-labo.com/labo/page/43)
 
 ### 精霊戦記みに
