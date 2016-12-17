@@ -113,6 +113,21 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
   color: #159957; }
+
+.main-content h1 {
+  font-size: 3em;
+  margin: 0.67em 0;
+}
+
+.main-content h2 {
+  font-size: 2em;
+}
+
+.main-content h3 {
+  font-size: 1.8em;
+  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+}
+
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
