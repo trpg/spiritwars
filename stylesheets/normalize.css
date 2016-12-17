@@ -133,8 +133,17 @@ dfn {
  */
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
   margin: 0.67em 0;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.8em;
+  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
 }
 
 /**
