@@ -26,24 +26,39 @@
 
 ## 精霊戦記 キーコンセプト
 
-<iframe src="https://docs.google.com/presentation/d/1Zo4HjkYlkvHbaK3ymP7exIP0LSOW21YZO-7a9Qh5mbc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-[開発サイトへ移動](https://github.com/trpg/spiritwars)
+[コンセプトスライド](https://docs.google.com/presentation/d/1Zo4HjkYlkvHbaK3ymP7exIP0LSOW21YZO-7a9Qh5mbc/edit?usp=sharing)
 
 
 [参考](http://trpg-labo.com/labo/page/43)
 
-### 精霊戦記みに
+## 入手
 
-システムのコアコンセプトを1ページのTRPGにまとめて手軽に体験できるようにした『精霊戦記みに』を用意しました。マスター不要で手軽に遊べます。
+### イベント
 
-## ダウンロード
+主にコミックマーケットにて「氷川TRPG研究室」で頒布しています。
 
-『精霊戦記』 markdown 版は無償でダウンロードできます。
+### ショップ
 
-当ページ右上部の[「ダウンロード」](https://github.com/trpg/spiritwars/archive/master.zip)ボタンより、最新版をダウンロードできます。
+一部のホビーショップで扱う予定です。
 
-ダウンロードしたファイル内には、キャラクタシート、チャートが含まれています。
+### ダウンロード販売
+
+PDF版のダウンロード販売を予定しています。
+
+#### 精霊戦記みに
+
+システムのコアコンセプトを1ページのTRPGにまとめて手軽に体験できるようにした『精霊戦記みに』を用意しました。マスター不要で手軽に遊べます。開発版に含まれます。
+
+## リソース
+
+* キャラクタシート
+* チャート
+
+### マスター向けコンテンツ
+
+* 背景設定
+* クリーチャ
+* シナリオ
 
 ## 開発について
 
