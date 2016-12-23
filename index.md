@@ -3,6 +3,8 @@
 [![Stories in Ready](https://badge.waffle.io/trpg/spiritwars.png?label=ready&title=Ready)](https://waffle.io/trpg/spiritwars)
 [![Join the chat at https://gitter.im/trpg/spiritwars](https://badges.gitter.im/trpg/spiritwars.svg)](https://gitter.im/trpg/spiritwars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+![精霊一覧](https://github.com/trpg/spiritwars/doc/images/list.png)
+
 『精霊戦記』は、契約している複数の精霊の中から冒険の舞台にあった精霊を召喚して使役しながら太古の巨人の「遺跡」を、精霊石を手に入れるために探索するTRPGシステムです。サイコロフィクションの「特技」のシステムをベースにしています。
 
 __コミックマーケット91（2016年冬）　12/29（木）東キ10a「氷川TRPG研究室」にて頒布予定です。__
