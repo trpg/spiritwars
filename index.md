@@ -1,6 +1,5 @@
 # 精霊戦記
 
-[![Stories in Ready](https://badge.waffle.io/trpg/spiritwars.png?label=ready&title=Ready)](https://waffle.io/trpg/spiritwars)
 [![Join the chat at https://gitter.im/trpg/spiritwars](https://badges.gitter.im/trpg/spiritwars.svg)](https://gitter.im/trpg/spiritwars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![精霊一覧](https://github.com/trpg/spiritwars/blob/master/docs/images/list.png?raw=true)
@@ -34,6 +33,10 @@ __コミックマーケット91（2016年冬）　12/29（木）東キ10a「氷�
 * [精霊紹介（Twitter Moments）](https://twitter.com/i/moments/811926696152530944)
 
 ### シナリオデッキ
+
+
+
+### その他資料
 
 [コンセプト資料](https://github.com/trpg/spiritwars/blob/master/chart/paper-1.pdf)
 
@@ -76,8 +79,9 @@ PDF版のダウンロード販売を予定しています。
 
 以下のページを御覧ください。
 
-* 背景設定
-* クリーチャ
+* [背景設定](http://trpg.github.io/spiritwars/src/7-1-World.html)
+* [クリーチャ](http://trpg.github.io/spiritwars/src/7-2-Creatures.html)
+* [シナリオデッキ](http://trpg.github.io/spiritwars/src/5-1-Scenario.html)
 * シナリオ
 
 ## 開発について
