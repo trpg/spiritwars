@@ -82,7 +82,7 @@ PDF版のダウンロード販売を予定しています。
 
 『精霊戦記』基本ルールブックにはマスター向けのコンテンツは掲載していません。
 
-以下のページを御覧ください。
+以下のページを御覧ください（鋭意制作中、随時更新中です ^ ^;;）。
 
 * [背景設定](http://trpg.github.io/spiritwars/src/7-1-World.html)
 * [クリーチャ](http://trpg.github.io/spiritwars/src/7-2-Creatures.html)
