@@ -44,8 +44,9 @@ __コミックマーケット91（2016年冬）　12/29（木）東キ10a「氷�
 
 [コンセプトスライド](https://docs.google.com/presentation/d/1Zo4HjkYlkvHbaK3ymP7exIP0LSOW21YZO-7a9Qh5mbc/edit?usp=sharing)
 
-
 [参考](http://trpg-labo.com/labo/page/43)
+
+![地図](http://trpg.github.io/spiritwars/docs/images/map.jpg)
 
 ## 入手
 
